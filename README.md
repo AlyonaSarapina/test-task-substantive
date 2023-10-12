@@ -25,4 +25,4 @@ To get the percentage of requests I decided to go through the data array and cou
 
 So, now we have an object with summarized data and by the next step, I'm iterating by each object key to calculate the percentage of requests in significant sectors relative to the total amount of requests. By the next step I stored calculated data in the prepared array in a format { name: string, percantage: number }.
 
-Returning array to insert the data from it to the table.
+Returning array to insert the data to the table.
