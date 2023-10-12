@@ -17,9 +17,9 @@ To run the project locally, follow these rules, navigate to the project director
 ### Or you can go to the finished version at this link: [DEMO LINK](https://test-task-substantive.vercel.app/)
 <br />
 
-## Notes
+## 📝 Notes
 
-I created a constant variable with Api data array length, an empty array for the result that we return from the function, and an empty object to store the amount of requests for each sector.
+To insert the data for the table I created a constant variable with Api data array length, an empty array for the result that we return from the function, and an empty object to store the amount of requests for each sector.
 
 To get the percentage of requests I decided to go through the data array and count the amount of requests for each sector. I compared the name of the sector and increased it by 1. Calculated data stored in an object.
 
