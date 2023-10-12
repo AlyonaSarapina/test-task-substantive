@@ -5,7 +5,7 @@ This App allows you to explore the statistics information about percentage of cl
 This page is responsive for any type of screen.
 Click on the top Button to hide or show the table.
 
-![Table](https://prnt.sc/y3HIFyqpVHA1)
+![Table](https://i.ibb.co/ZhWy63w/Screenshot-2023-10-12-at-7-30-48-PM.png)
 
 ## Notes
 
