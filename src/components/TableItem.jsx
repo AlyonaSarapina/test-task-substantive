@@ -4,9 +4,9 @@ import React from "react";
 const TableItem = ({ table }) => {
   return (
     <React.Fragment>
-      {table.map((data) => (
+      {table.map((data, index) => (
         <Tr
-          key={data.percentage}
+          key={index}
           _hover={{
             background: "#3457D5",
             color: "white",
