@@ -17,4 +17,11 @@ So, now we have an object with summarized data and by the next step, I'm iterati
 
 Returning array to insert the data from it to the table.
 
-Here you can find a [DEMO LINK](https://test-task-substantive.vercel.app/)
+#🏃 How to get started
+To run the project locally, follow these rules, navigate to the project directory in your terminal:
+
+Clone repo: git clone https://github.com/ollavka/user-space-task.git
+Install dependencies: npm install
+Run the application: npm run dev
+Open your browser and visit http://localhost:3000
+Or you can go to the finished version at this link: [DEMO LINK](https://test-task-substantive.vercel.app/)
