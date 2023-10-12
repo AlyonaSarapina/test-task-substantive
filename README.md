@@ -17,11 +17,12 @@ So, now we have an object with summarized data and by the next step, I'm iterati
 
 Returning array to insert the data from it to the table.
 
-#🏃 How to get started
-To run the project locally, follow these rules, navigate to the project directory in your terminal:
+# 🏃 How to get started
+To run the project locally, follow these rules, navigate to the project directory in your terminal:<br/>
+* Clone repo: `https://github.com/AlyonaSarapina/test-task-substantive.git`<br />
+* Install dependencies: `npm install` or `yarn install` <br />
+* Run the application:  `npm run dev` or `yarn dev` <br />
+* Open your browser and visit http://localhost:3000.<br />
 
-Clone repo: git clone https://github.com/ollavka/user-space-task.git
-Install dependencies: npm install
-Run the application: npm run dev
-Open your browser and visit http://localhost:3000
-Or you can go to the finished version at this link: [DEMO LINK](https://test-task-substantive.vercel.app/)
+### Or you can go to the finished version at this link: [DEMO LINK](https://test-task-substantive.vercel.app/)
+<br />
