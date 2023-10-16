@@ -1,8 +1,7 @@
 # 🌐 Client Requests Task
 
-Welcome to Client Request Table.
-This App allows you to explore the statistics information about percentage of client request about certaint fields.
-This page is responsive for any type of screen.
+Welcome to the Client Requests Table.
+This App allows you to explore the statistics information about percentage of client requests about certaint sector.
 Click on the top Button to hide or show the table.
 
 ![Table](https://i.ibb.co/ZhWy63w/Screenshot-2023-10-12-at-7-30-48-PM.png)
